@@ -1,0 +1,22 @@
+{
+  "name": "openvpn-unix-socket-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binRick/openvpn-unix-socket-monitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binRick/openvpn-unix-socket-monitor/issues"
+  },
+  "homepage": "https://github.com/binRick/openvpn-unix-socket-monitor#readme",
+  "dependencies": {
+    "easy-ipc": "^0.2.2"
+  }
+}
